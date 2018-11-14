@@ -2,7 +2,7 @@
 title: "BST 232 Final Project"
 author: "Rima Nakhala"
 date: "12/11/2017"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE, message=FALSE, warning=FALSE}
